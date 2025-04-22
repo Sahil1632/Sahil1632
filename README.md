@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahil1632
-- 👀 I’m interested in ...web designing, content creation
-- 🌱 I’m currently learning ... webdesiging
-- 💞️ I’m looking to collaborate on ...webdev
+- 👀 I’m interested in ...Product Management, Product Desiging and content creation
+- 🌱 I’m currently learning ... Data Analytics 
+- 💞️ I’m looking to collaborate on ...Building Products
 - 📫 How to reach me ...https://www.instagram.com/saaaahilkun/?hl=en
 
 <!---
